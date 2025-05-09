@@ -1,6 +1,6 @@
 Plugins installed: 
-- [ ] gruvbox theme
-- [ ] nextflow
-- [ ] Snakemake
-- [ ] treesitter
-- [ ] vim-latex
+- Gruvbox material: https://github.com/sainnhe/gruvbox-material
+- Nextflow: https://github.com/LukeGoodsell/nextflow-vim.git
+- Snakemake
+- Treesitter
+- Vim-latex
