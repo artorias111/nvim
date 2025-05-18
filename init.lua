@@ -6,3 +6,4 @@ vim.cmd("set relativenumber")
 vim.cmd("set linebreak")
 
 require("config.lazy")
+
