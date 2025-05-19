@@ -1,4 +1,5 @@
 {
+  "catppuccin": { "branch": "main", "commit": "8162a4bd9afb42837a655e404d1f937a87ba95e6" },
   "gruvbox-material": { "branch": "master", "commit": "f5f912fbc7cf2d45da6928b792d554f85c7aa89a" },
   "lazy.nvim": { "branch": "main", "commit": "6c3bda4aca61a13a9c63f1c1d1b16b9d3be90d7a" },
   "nextflow-vim": { "branch": "master", "commit": "3b77c4c329dcfb81c9cc5e10daeb3f9752c51d73" },

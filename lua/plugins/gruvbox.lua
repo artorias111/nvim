@@ -1,5 +1,6 @@
 return {
   {'sainnhe/gruvbox-material',
+    enabled = false, -- catppuccin ftw
     config = function()
       -- Set Gruvbox Material theme options (optional)
       vim.g.gruvbox_material_background = 'hard' -- Options: 'soft', 'medium', 'hard'
