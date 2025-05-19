@@ -1,6 +1,11 @@
-Plugins installed: 
-- Gruvbox material: https://github.com/sainnhe/gruvbox-material
-- Nextflow: https://github.com/LukeGoodsell/nextflow-vim.git
-- Snakemake
+A simple neovim config:
+
+Installed: 
+- Catppuccin mocha
+- Nextflow (For syntax highlighting)
 - Treesitter
-- Vim-latex
+
+Disabled: 
+- Gruvbox
+- Snakemake (for syntax highlighting)
+- vim-latex
