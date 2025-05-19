@@ -1,0 +1,24 @@
+# Lazy.nvim generated files
+lazy-lock.json
+lua/lazy-lock.json # In case you move lazy-lock.json here
+
+# Compiled Lua files (luac)
+**/*.luac
+
+# Swap files
+**/*.swp
+**/*.swo
+
+# Undo files
+**/*.un~
+
+# Session files
+**/*.shada
+Session.vim
+
+# Other common temporary or cache files
+.DS_Store             # macOS specific
+.idea/                # IntelliJ/JetBrains IDE files
+.vscode/              # VS Code files
+*.bak                 # Backup files
+*.tmp                 # Temporary files
