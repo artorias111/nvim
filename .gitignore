@@ -1,6 +1,7 @@
 # Lazy.nvim generated files
-lazy-lock.json
-lua/lazy-lock.json # In case you move lazy-lock.json here
+# lazy-lock.json
+# lua/lazy-lock.json # In case you move lazy-lock.json here
+# turns out I need the above two files
 
 # Compiled Lua files (luac)
 **/*.luac
