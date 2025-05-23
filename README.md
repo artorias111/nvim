@@ -7,5 +7,5 @@ Installed:
 
 Disabled: 
 - Gruvbox
-- Snakemake (for syntax highlighting)
+- Snakemake (Syntax highlighting)
 - vim-latex
